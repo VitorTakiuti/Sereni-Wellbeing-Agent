@@ -81,42 +81,33 @@ Uma vez que o setup esteja completo e sua chave de API configurada, você pode r
 **Exemplos de Interação:**
 
    Você: Olá Sereni
-   
    Sereni: Olá! Eu sou o Sereni, seu companheiro de bem-estar. Como posso te ajudar hoje?
    ------------------------------
    Você: Quero adicionar um hábito: ler por 15 minutos antes de dormir
-   
    Sereni: Ótimo! O hábito 'Ler Por 15 Minutos Antes De Dormir' foi adicionado. Posso te ajudar com outra coisa?
    ------------------------------
    Você: adicionar hábito: caminhar - 30 minutos por dia
-   
    Sereni: Ótimo! O hábito 'Caminhar' foi adicionado. Posso te ajudar com outra coisa?
    ------------------------------
    Você: listar hábitos
-   
    Sereni: Seus hábitos atuais:
       Ler Por 15 Minutos Antes De Dormir: Sem detalhes adicionais.
       Caminhar: 30 minutos por dia
    ------------------------------
    Você: lembre-me: tomar vitamina às 9:00
-   
    Sereni: Ok, anotei para te lembrar de 'tomar vitamina' às 9:00. Lembre-se que neste momento eu apenas guardo essa informação.
    ------------------------------
    Você: agendar lembrete: consulta médica às 14:30
-   
    Sereni: Ok, anotei para te lembrar de 'consulta médica' às 14:30. Lembre-se que neste momento eu apenas guardo essa informação.
    ------------------------------
    Você: listar lembretes
-   
    Sereni: Seus lembretes agendados (lembre-se, eu apenas os guardo por enquanto):
       [geral] 09:00: tomar vitamina
       [geral] 14:30: consulta médica
    ------------------------------
    Você: Como posso relaxar agora?
-   
    Sereni: Claro! Uma forma simples de relaxar é focar na sua respiração. Encontre uma posição confortável, feche os olhos se quiser, e apenas observe o ar entrando e saindo. Não tente mudar nada, apenas observe por um minuto ou dois. Isso pode ajudar a acalmar a mente.
    ------------------------------
    Você: tchau
-   
    Sereni: Que bom que conversamos! Lembre-se que estou aqui sempre que precisar. Cuide-se bem!
    ------------------------------
