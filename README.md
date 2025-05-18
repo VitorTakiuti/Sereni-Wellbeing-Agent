@@ -79,6 +79,7 @@ Uma vez que o setup esteja completo e sua chave de API configurada, você pode r
 5.  Para sair, digite `sair` ou `tchau`.
 
 **Exemplos de Interação:**
+
    Você: Olá Sereni
    Sereni: Olá! Eu sou o Sereni, seu companheiro de bem-estar. Como posso te ajudar hoje?
    ------------------------------
@@ -109,3 +110,4 @@ Uma vez que o setup esteja completo e sua chave de API configurada, você pode r
    ------------------------------
    Você: tchau
    Sereni: Que bom que conversamos! Lembre-se que estou aqui sempre que precisar. Cuide-se bem!
+   ------------------------------
