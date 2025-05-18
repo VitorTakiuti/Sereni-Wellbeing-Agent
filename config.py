@@ -4,7 +4,7 @@
 # É ALTAMENTE recomendado carregar isso de variáveis de ambiente
 # ou de um arquivo .env em um projeto real por questões de segurança.
 # Para este exemplo, vamos colocá-la diretamente, mas esteja ciente dos riscos.
-GOOGLE_API_KEY = "AIzaSyCzpvIYDhLBBm4lQWIj2aOV8GY-Trw4uUU" # <<< SUBSTITUA PELA SUA CHAVE REAL
+GOOGLE_API_KEY = "Your_GOOGLE_API_KEY" # <<< SUBSTITUA PELA SUA CHAVE REAL
 
 # Modelo Gemini a ser utilizado
 GEMINI_MODEL_NAME = "gemini-1.5-flash-latest"
